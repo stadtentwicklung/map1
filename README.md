@@ -1,5 +1,5 @@
 # :world_map: Masterplan Cottbuser Ostsee
-:heavy_check_mark: Georeferenziertes Rendering erstellen und als Web-Map publizieren mit Standortermittlung.
+:white_check_mark: Georeferenziertes Rendering erstellen und als Web-Map publizieren mit Standortermittlung.
 
 ## :computer: Link [https://stadtentwicklung.github.io/maplos/)
 
