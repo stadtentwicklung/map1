@@ -29,8 +29,8 @@ Um dem visuellen Anspruch eines Masterplans gerecht zu werden bei gleichzeitig a
 ### :iphone: Webpublikation:
 Der Urspungsplan aus ACM enthält in den Ecken Koordinatenangaben im lokal üblichen EPSG:25833. Diese Koordinaten wurden separat in das [leaflet.js](https://leafletjs.com/) EPSG:3857 [online](https://epsg.io/) umgerechnet und bei der Georeferenzierung in QGIS genutzt. Das neu georeferenzierte Bild wurde in QGIS als Projekt geöffnet und über die Funktion gdal2tiles in ca. 500 Kacheln inklusive fertigem Leaflet.html Template ausgegeben. Für die Web-Map steht nun statt einer Vektorkarte ein plastischer wirkendes Rendering zur Verfügung. Der Code der Datei wurde insofern angepasst, dass alle anderen voreingestellten Tiles entfern wurden, was die Performance erhöht. Hinzugefügt wurden Custom-Marker mit Popups und Scripts für die Anzeige einer Ladegrafik und die Stadnortermittlung. Über die Kommandozeile konnte das Projekt in ein GitHub Repository migriert werden. Die Funktion GitHub Pages hostet die Map als Web-App freizugänglich. Wer vor Ort ist und auf einem Handy Internetzugang hat, kann sich live auf dem Plan informieren und navigieren.
 
-### :camera_flash: Notes-Screenshot:
-![Kopie der Notizen zur Vorbereitung](https://raw.githubusercontent.com/stadtentwicklung/GeolocateOnPlan/main/notes.png) 
+### :camera_flash: WebMapNotes:
+![Kopie der Notizen zur Vorbereitung der Webapplikation](https://raw.githubusercontent.com/stadtentwicklung/maplos/master/img/notes.png) 
 
 ### :coffee:
 by [St.St.](https://github.com/stewahn)
