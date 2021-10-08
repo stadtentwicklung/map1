@@ -3,6 +3,9 @@
 
 ## :computer: Link [https://stadtentwicklung.github.io/maplos/)
 
+### :camera_flash: WebMapApp-Screenshot:
+![Screenshot der GitHub-Pages App](https://raw.githubusercontent.com/stadtentwicklung/maplos/master/img/screenshot.JPG) 
+
 ## :rocket: Entstehungsprozess:
 
 ### :compass: Ausgangslage:
