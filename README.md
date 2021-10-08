@@ -32,5 +32,4 @@ Der Urspungsplan aus ACM enthält in den Ecken Koordinatenangaben im lokal übli
 ### :camera_flash: WebMapNotes:
 ![Kopie der Notizen zur Vorbereitung der Webapplikation](https://raw.githubusercontent.com/stadtentwicklung/maplos/master/img/notes.png) 
 
-### :coffee:
-by [St.St.](https://github.com/stewahn)
+### :coffee::coffee::coffee: by [Stefan](https://github.com/stefanstoehr)
