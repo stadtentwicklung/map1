@@ -4,7 +4,7 @@
 ## :computer: Link [https://stadtentwicklung.github.io/map1/)
 
 ### :camera_flash: WebMapApp-Screenshot:
-![Screenshot der GitHub-Pages App](https://raw.githubusercontent.com/stadtentwicklung/map2/master/img/screenshot.JPG) 
+![Screenshot der GitHub-Pages App](https://raw.githubusercontent.com/stadtentwicklung/map1/master/img/screenshot.JPG) 
 
 ## :rocket: Entstehungsprozess:
 
